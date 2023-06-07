@@ -1,23 +1,19 @@
-import logo from './logo.svg';
+import Graph from './Components/Graph';
+import PieChart from './Components/piechart';
+import ScatterPlot from './Components/scatterplot';
+import BarChart from './Components/barchart';
+import MutlipleLineGraph from './Components/mutliplelineplots';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <h1>My Plotly Graph</h1>
+      <Graph />
+      <PieChart/>
+      <ScatterPlot/>
+      <BarChart/>
+      <MutlipleLineGraph/>
     </div>
   );
 }
