@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Plotly-Graphs/static/css/main.e6c13ad2.css",
+    "main.js": "/Plotly-Graphs/static/js/main.bab14db4.js",
+    "static/js/787.5ab8b06f.chunk.js": "/Plotly-Graphs/static/js/787.5ab8b06f.chunk.js",
+    "index.html": "/Plotly-Graphs/index.html",
+    "main.e6c13ad2.css.map": "/Plotly-Graphs/static/css/main.e6c13ad2.css.map",
+    "main.bab14db4.js.map": "/Plotly-Graphs/static/js/main.bab14db4.js.map",
+    "787.5ab8b06f.chunk.js.map": "/Plotly-Graphs/static/js/787.5ab8b06f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.bab14db4.js"
+  ]
+}
